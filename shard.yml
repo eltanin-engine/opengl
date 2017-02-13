@@ -1,0 +1,13 @@
+name: opengl
+version: 0.1.0
+
+authors:
+  - Max Berends <max@maxberends.nl>
+
+dependencies:
+  lib_gl:
+    github: Rinkana/lib_gl
+
+crystal: 0.20.5
+
+license: MIT
